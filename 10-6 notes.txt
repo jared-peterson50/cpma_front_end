@@ -1,0 +1,1 @@
+The user upon registration will manually input the team name into the textbox as input. The role gets auto assigned as user or admin. if the email address= one in the admin array then "admin" else "user".
